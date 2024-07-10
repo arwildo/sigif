@@ -2,7 +2,7 @@ import json
 
 
 # followers
-f = open('./data/followers.json')
+f = open('./data/followers_1.json')
 
 data = json.load(f)
 
