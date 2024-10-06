@@ -1,7 +1,7 @@
 <p align=center><a href="https://arwildo.com/"><img src="https://arwildo.com/logo.png" width="32"></img></a></p> 
 
 ## Sigif
-See IG Informations. See the people you follow but who didn't follow you back.
+See IG Information. See the people you follow but who didn't follow you back.
 
 ### Requirements
 * [Python3](https://www.python.org/) - Programming Language
