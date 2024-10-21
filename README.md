@@ -1,4 +1,4 @@
-<p align=center><a href="https://arwildo.com/"><img src="https://arwildo.com/logo.png" width="32"></img></a></p> 
+<p align=center><a href="https://arwildo.com/"><img src="https://arwildo.com/android-chrome-192x192.png" width="32"></img></a></p> 
 
 ## Sigif
 See IG Information. See the people you follow but who didn't follow you back.
